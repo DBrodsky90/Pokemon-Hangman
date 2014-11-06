@@ -1,6 +1,6 @@
 Pokemon-Hangman
 ===============
 
-Pokemon hangman command line game written in ruby
+Pokemon hangman command line game
 
 Includes only the first 151 Pokemon
